@@ -1,4 +1,4 @@
 greetings = 'Hello, Moringa!'
 
-part_one = greetings[-8:-1]
+part_one = greetings[0:5]
 print(part_one)
