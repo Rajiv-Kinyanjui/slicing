@@ -1,4 +1,4 @@
-greetings = 'Hello, Moringa!'
+number = [1, 2, 3, 4, 5, 6, 7, 8, 9,]
 
-part_one = greetings[0:5]
-print(part_one)
+four_digits = number[:6]
+print(four_digits)
